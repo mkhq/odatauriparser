@@ -9,6 +9,8 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
+project/target/
+project/project/
 .history
 
 project/activator-sbt*
@@ -40,3 +42,4 @@ revision.txt
 .DS_Store
 
 *.pyc
+*.swp
